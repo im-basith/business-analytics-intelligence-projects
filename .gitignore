@@ -118,3 +118,8 @@ coverage.xml
 # Test artifacts
 .tox/
 .hypothesis/
+
+# Private workflow and internal documentation
+WORKFLOW.md
+*_INTERNAL.md
+*_PRIVATE.md
