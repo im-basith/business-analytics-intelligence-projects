@@ -121,5 +121,7 @@ coverage.xml
 
 # Private workflow and internal documentation
 WORKFLOW.md
+PROGRESS_LOG_TEMPLATE.md
 *_INTERNAL.md
 *_PRIVATE.md
+all_projects_status.md
